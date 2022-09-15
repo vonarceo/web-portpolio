@@ -1,0 +1,73 @@
+* {
+	font-family: 'Shadows Into Light';
+	font-size: 25px;
+}
+
+html {
+	scroll-behavior: smooth;
+}
+
+nav	{
+	/*background: #B68F6D;*/
+	background-image: url(images/banner.jpg);
+	background-size: 30%;
+	opacity: 0.85;
+
+}
+
+body {
+	
+	background-image: url(images/test.jpg);
+	background-attachment: fixed;
+	background-size: 50%;
+	
+}
+
+#jumbo1 {
+	background: #B68F6D;
+	opacity: 0.95;
+}
+
+#img1  {
+	opacity: 1;
+}
+
+#img2 {
+	opacity: 0.85;
+}
+
+#capstone {
+	background: #B68F6D	;
+	opacity: 0.85;
+}
+
+#card1 {
+	background: #FFE4B5;
+}
+
+#card2 {
+	background: #FFE4B5;
+}
+
+#card3 {
+	background: #FFE4B5;
+}
+
+#author1 {
+	background: #B68F6D;
+	opacity: 0.85;
+}
+
+.nav-link {
+	font-family: sans-serif;
+	text-decoration: underline overline;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-weight: bold;
+}
+
+#contacth2	 {
+	color: white;
+}
+
