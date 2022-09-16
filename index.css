@@ -37,20 +37,21 @@ body {
 }
 
 #capstone {
-	background: #B68F6D	;
-	opacity: 0.85;
+	/*background: #B68F6D	;
+	opacity: 0.85;*/
 }
 
 #card1 {
-	background: #FFE4B5;
+	background: #B68F6D;
+	
 }
 
 #card2 {
-	background: #FFE4B5;
+	background: #B68F6D;
 }
 
 #card3 {
-	background: #FFE4B5;
+	background: #B68F6D;
 }
 
 #author1 {
@@ -60,15 +61,22 @@ body {
 
 .nav-link {
 	font-family: sans-serif;
-	text-decoration: underline overline;
-	
+	/*text-decoration: underline overline;*/
+
 }
 
-h1, h2, h3, h4, h5, h6 {
+h2, h3, h4, h5, h6 {
 	font-weight: bold;
+
 }
 
 #contacth2	 {
 	color: white;
+}
+
+h1 {
+
+	font-weight: bold;
+	font-family: 'font-weight: bold;';!important
 }
 
