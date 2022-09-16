@@ -9,10 +9,10 @@ html {
 
 nav	{
 	/*background: #B68F6D;*/
-	background-image: url(images/banner.jpg);
+/*	background-image: url(images/banner.jpg);
 	background-size: 30%;
 	opacity: 0.85;
-
+*/
 }
 
 body {
@@ -61,6 +61,7 @@ body {
 .nav-link {
 	font-family: sans-serif;
 	text-decoration: underline overline;
+	
 }
 
 h1, h2, h3, h4, h5, h6 {
